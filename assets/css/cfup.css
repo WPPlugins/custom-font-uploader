@@ -1,0 +1,54 @@
+#wpbody .file-success-msg {
+ background: #fff none repeat scroll 0 0;
+ border-left: 5px solid green;
+ height: 25px;
+ padding-left: 5px;
+ padding-top: 8px;
+ text-align: center;
+ width: 45%;
+}
+
+.gfupdate {
+    background: #fff none repeat scroll 0 0;
+    border-left: 5px solid green;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    width: 30%;
+    margin-top: 10px;
+}
+
+/** The preview screen **/
+	
+.font-preview-section { 
+	width: 70%; 
+	padding: 25px 10%;	
+	background: #ffffff; 
+	border: 1px solid #aaa; 
+	margin: 10px 0 30px 0;
+	box-shadow: 2px 2px 1px rgba(0,0,0,0.3);
+}
+
+.googletbl {
+	width: 100%;
+}
+
+#googlefonts_options {
+	overflow: hidden;
+    width: 100%;
+}
+
+.gfont {
+  float: left;
+  width: 37%;
+}
+
+.font-preview-section {
+  float: right;
+  width: 36%;
+}
+
+#googlefonts_options .select2-container.webfonts-select {
+  max-width: 100%;
+  min-width: 200px;
+}
